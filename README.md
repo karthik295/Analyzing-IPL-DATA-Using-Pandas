@@ -1,4 +1,4 @@
-# Analyzing-IPL-DATA from 2008 to 2019 -Using-Pandas.
+# Analyzing-IPL-DATA from 2008 to 2016 -Using-Pandas.
 #### Using different files pertaining to IPL like match data,player data,teams data,season data,ball by ball data to analyze the performances.
 - Analyzing teams home and away performances.
 - Analyzing top strike rate of batsmen.
